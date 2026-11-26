@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "[\"Azalea\",\"amenidades\",\"Lobby\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "35518f5132ae51310f4e181fbcb15bb5a3944339065ebf87d0f2b00e485627b1",
+      "outputSize": 199187,
+      "outputMtime": 1795728675610.519
+    },
+    "[\"Azalea\",\"amenidades\",\"Terraza\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "9e61fe61fb9c648fbe31e59c863f90033daada92f50eed40e9327134443ecdbe",
+      "outputSize": 123433,
+      "outputMtime": 1795728676204.5696
+    },
+    "[\"Azalea\",\"amenidades\",\"General\"]": {
+      "pose": {
+        "pitch": -25,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "9ec08d60aed3ef8cd92cf83d5131e55fac98f07886c369482d40248f12e44ee9",
+      "outputSize": 272961,
+      "outputMtime": 1795728693782.895
+    },
+    "[\"Azalea\",\"amenidades\",\"ZonaTrote\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "40aef73bc6b5c8d7f4276dcd9dbf130279e96f8b1cc77095e9df575ac7b5450c",
+      "outputSize": 204400,
+      "outputMtime": 1795728677281.824
+    },
+    "[\"Azalea\",\"amenidades\",\"ParqueInfantil\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "c30740a0bd73d51d0493fc01b81705dbe2c2d3318cc63b880208664453d414ee",
+      "outputSize": 223082,
+      "outputMtime": 1795728677776.6182
+    },
+    "[\"Azalea\",\"amenidades\",\"BioSaludables\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "3ed6ad127e018cc0d8cc927d564ecb77895616fa7a964f55c81def74406e2378",
+      "outputSize": 261774,
+      "outputMtime": 1795728678363.465
+    }
+  }
+}
